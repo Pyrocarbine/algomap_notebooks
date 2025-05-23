@@ -5,8 +5,10 @@
         "@jupyterlab/drawio-extension",
         "jupyterlab-kernel-spy",
         "jupyterlab-tour",
-        "@jupyterlite/file-browser-extension"
       ]
     }
+    "disabledExtensions": [
+        "@jupyterlite/file-browser-extension"
+    ]
   }
   
